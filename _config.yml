@@ -55,10 +55,10 @@ og_image: # The site-wide (default for all links) Open Graph preview image
 # Social integration
 # -----------------------------------------------------------------------------
 
-github_username: CaelynCheung1996# your GitHub user name
+github_username: CaelynCheung1996 # your GitHub user name
 gitlab_username: # your GitLab user name
-twitter_username: Caelyn1996# your Twitter handle
-linkedin_username: xiaohuizhang1996# your LinkedIn user name
+twitter_username: Caelyn1996 # your Twitter handle
+linkedin_username: xiaohuizhang1996 # your LinkedIn user name
 scholar_userid: KSBbzdsAAAAJ&hl=en # your Google Scholar ID
 orcid_id: 0000-0002-7990-1594 # your ORCID ID
 medium_username: # your Medium username

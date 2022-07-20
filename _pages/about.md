@@ -2,24 +2,28 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: Bioengineering, University of Illinois Urbana-Champaign
 
 profile:
   align: right
   image: prof_pic.jpg
   image_cicular: false # crops the image to make it circular
   address: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>Room 3146</p>
+    <p>1406 W Green St</p>
+    <p>Urbana, IL 61801</p>
 
 news: true  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I am a fourth-year PhD student of [Computational Imaging Science Lab](https://anastasio.bioengineering.illinois.edu/) led by Professor [Mark Anastasio](https://bioengineering.illinois.edu/people/maa). 
 
-Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+My research involves computational methods in neuroimaging, especially for wide-field calcium imaging in mice. I have also worked on image analysis and processing for biomedical imaging applications such as microscopy, endoscopy, MRI, by use of machine learning and deep learning.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+I received my B.E. degree in Biomedical Engineering from Beihang University, Beijing, China, in 2018. I am currently a student member of the [SPIE](https://spie.org/?SSO=1) and the [RSNA](https://www.rsna.org/).
+
+I also served as an associate editor for [Medical Physics](https://aapm.onlinelibrary.wiley.com/journal/24734209), and reviewer for [Journal of Biomedical Informatics](https://www.sciencedirect.com/journal/journal-of-biomedical-informatics), [Physics in Medicine & Biology](https://iopscience.iop.org/journal/0031-9155), [Journal of Biomedical Optics](https://www.spiedigitallibrary.org/journals/journal-of-biomedical-optics?SSO=1) and [Biomedical Signal Processing](https://www.journals.elsevier.com/biomedical-signal-processing-and-control). 
+
+

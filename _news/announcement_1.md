@@ -1,7 +1,7 @@
 ---
 layout: post
-date: 2022-07-15 15:59:00-0400
+date: 2022-07-15
 inline: true
 ---
 
-bbaacaelynOur abstract has been accepted for oral presentation at 2022 BMES Annual Meeting
+One abstract is accepted for oral presentation at [2022 BMES Annual Meeting](https://www.bmes.org/annualmeeting).

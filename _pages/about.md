@@ -18,7 +18,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I am a fourth-year PhD student of [Computational Imaging Science Lab](https://anastasio.bioengineering.illinois.edu/) led by Professor [Mark Anastasio](https://bioengineering.illinois.edu/people/maa). 
+I am a fifth-year PhD student of [Computational Imaging Science Lab](https://anastasio.bioengineering.illinois.edu/) led by Professor [Mark Anastasio](https://bioengineering.illinois.edu/people/maa). 
 
 My research involves computational methods in neuroimaging, especially for wide-field calcium imaging in mice. I have also worked on image analysis and processing for biomedical imaging applications such as microscopy, endoscopy, MRI, by use of machine learning and deep learning.
 

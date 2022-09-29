@@ -1,7 +1,7 @@
 ---
 layout: post
-date: 2022-06-14
+date: 2022-09-29
 inline: true
 ---
 
-I presented my work on [ICHI Illinois Grad Student Showcase](./assets/img/student-showcase-at-ICHI.pdf).
+Our abstract is accepted for poster presentation at [SPIE Photonics West 2023](https://spie.org/conferences-and-exhibitions/photonics-west).

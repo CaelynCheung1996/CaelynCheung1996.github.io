@@ -1,7 +1,7 @@
 ---
 layout: post
-date: 2022-07-07 
+date: 2022-10-04 
 inline: true
 ---
 
-A collaborative work on adversarial learning is available on [arXiv](https://doi.org/10.48550/arXiv.2206.11501).
+One collaborative paper is published on [microPublication Biology](https://doi.org/10.17912/micropub.biology.000643).

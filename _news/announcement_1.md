@@ -1,7 +1,7 @@
 ---
 layout: post
-date: 2022-07-15
+date: 2022-11-23
 inline: true
 ---
 
-One abstract is accepted for oral presentation at [2022 BMES Annual Meeting](https://www.bmes.org/annualmeeting).
+I was honor to receive the 2022 SPIE Photonics West Travel Award.

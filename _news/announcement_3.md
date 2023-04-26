@@ -1,7 +1,7 @@
 ---
 layout: post
-date: 2022-11-03
+date: 2023-04-26
 inline: true
 ---
 
-One collaborative abstract is accepted for oral presentation at [SPIE Medical Imaging 2023](https://spie.org/conferences-and-exhibitions/medical-imaging).
+I will be joining GE Healthcare as a AI/ML PhD Intern in Summer 2023. 

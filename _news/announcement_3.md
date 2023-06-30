@@ -1,7 +1,7 @@
 ---
 layout: post
-date: 2023-04-26
+date: 2023-05-20
 inline: true
 ---
 
-I will be joining GE Healthcare as a AI/ML PhD Intern in Summer 2023. 
+I joined GE Healthcare as a AI/ML PhD Intern in Summer 2023. 

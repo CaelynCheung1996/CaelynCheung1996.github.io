@@ -1,7 +1,7 @@
 ---
 layout: post
-date: 2023-01-16
+date: 2023-09-18
 inline: true
 ---
 
-Our collaborative work with the JI Lab is publlished on [Environmental Advances](https://doi.org/10.1016/j.envadv.2023.100344).
+I am actively looking for full-time position in industry.

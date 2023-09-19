@@ -1,7 +1,7 @@
 ---
 layout: post
-date: 2022-11-23
+date: 2023-09-14
 inline: true
 ---
 
-I am honored to receive the 2022 SPIE Photonics West Travel Award.
+My co-authored paper was accepted in Medical Image Analysis.

@@ -1,7 +1,7 @@
 ---
 layout: post
-date: 2023-03-14 
+date: 2023-10-03 
 inline: true
 ---
 
-One proceedings paper for SPIE Photonics West 2023 is now available [online](https://doi.org/10.1117/12.2649375).
+Our work of deep learning-based image super-resolution for end-expandable optical probe is available on [preprint](https://arxiv.org/abs/2310.02171).

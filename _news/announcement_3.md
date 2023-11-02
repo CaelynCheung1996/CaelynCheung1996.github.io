@@ -1,7 +1,7 @@
 ---
 layout: post
-date: 2023-05-20
+date: 2023-11-01
 inline: true
 ---
 
-I joined GE Healthcare as a AI/ML PhD Intern in Summer 2023. 
+One manuscript was accepted to [ML4H 2023](https://ml4health.github.io/2023/) Proceedings track.

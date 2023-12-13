@@ -1,7 +1,7 @@
 ---
 layout: post
-date: 2023-11-01
+date: 2023-12-13
 inline: true
 ---
 
-One manuscript was accepted to [ML4H 2023](https://ml4health.github.io/2023/) Proceedings track.
+One proceeding paper for ML4H is available [online](https://proceedings.mlr.press/v225/zhang23a/zhang23a.pdf).

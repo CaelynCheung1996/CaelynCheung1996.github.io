@@ -2,25 +2,23 @@
 layout: about
 title: about
 permalink: /
-subtitle: Bioengineering, University of Illinois Urbana-Champaign
+subtitle: Bayer Crop Science
 
 profile:
   align: right
   image: prof_pic.jpg
   image_cicular: false # crops the image to make it circular
   address: >
-    <p>Room 3146</p>
-    <p>1406 W Green St</p>
-    <p>Urbana, IL 61801</p>
+    <p>Champaign</p>
 
 news: true  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I obtained my PhD in Bioengineering at University of Illinois Urbana-Champaign.
+I am currently a Data Scientist at Bayer Crop Science working on generative AI. I obtained my PhD in Bioengineering at University of Illinois Urbana-Champaign in 2024.
 
-My research involves computational methods in neuroimaging, especially for wide-field calcium imaging in mice. I have also worked on image analysis and processing for biomedical imaging applications such as microscopy, endoscopy, MRI, by use of machine learning and deep learning.
+My PhD research mainly involves developing computational methods for analyzing wide-field calcium neuroimaging data. I have also worked on image analysis and processing for biomedical imaging applications such as microscopy, endoscopy, MRI, by use of machine learning and deep learning.
 
 I have done internships at GE HealthCare (summer 2023) and Philips Healthcare (summer 2017). I worked on applications of diffusion models in medical ultrasound imaging.
 

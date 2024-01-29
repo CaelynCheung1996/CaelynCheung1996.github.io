@@ -1,7 +1,7 @@
 ---
 layout: post
-date: 2023-09-18
+date: 2023-01-28
 inline: true
 ---
 
-I am actively looking for full-time position in industry.
+I started a new position as a Data Scientist at Bayer.

@@ -1,7 +1,7 @@
 ---
 layout: post
-date: 2023-12-13
+date: 2024-08-14
 inline: true
 ---
 
-One proceeding paper for ML4H is available [online](https://proceedings.mlr.press/v225/zhang23a/zhang23a.pdf).
+Our paper on using attention-based CNN-BiLSTM for sleep state classification is published in [Journal of Neuroscience Methods](https://doi.org/10.1016/j.jneumeth.2024.110250).
